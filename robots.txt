@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://metalsrini.github.io/al-folio/sitemap.xml
+Sitemap: https://metalsrini.github.io/sitemap.xml
