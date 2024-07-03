@@ -1,70 +1,105 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Srinivasan Dhanaraj",
+    "label": "Metallurgist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "seenu2029@gmail.com",
+    "phone": "+91 8807383720",
+    "url": "https://metalsrini.github.io",
+    "summary": "Masters in Metallurgy and Integrated Computational Materials Engineering with more than 10 years of relavent industry experience",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "B 302 Radiance Shine, OMR Road",
+      "postalCode": "600103",
+      "city": "Chennai",
+      "countryCode": "India",
+      "region": "Tamil Nadu"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Srinivasan Dhanaraj",
+        "url": "https://www.linkedin.com/in/srinivasan-dhanaraj-1158046a/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Bharat Forge Ltd, Pune",
+      "position": "Deputy Manager, Turbocharger & Aerospace Department",
+      "url": "https://www.bharatforge.com/",
+      "startDate": "2015-06-13",
+      "endDate": "2018-06-30",
+      "summary": "Turbocharger, Aerospace and Defence Project for Indian Railways and Defense: Gained experience in diverse manufacturing processes including heat treatment, plating, coating, and casting (ferrous and non-ferrous).",
+      "highlights": ["Metallurgy & New Product Development"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Honda Cars R&D (HGID), Gr Noida",
+      "position": "Sr Research Executive, Material Research",
+      "url": "https://www.hondacarindia.com/",
+      "startDate": "2018-07-06",
+      "endDate": "2021-01-16",
+      "summary": "At Honda Cars, as part of the Material Research Team in Research and Development, I focused on new material research for light weighting and optimising metallurgical processes.",
+      "highlights": ["Material Research & Lightweighting"]
+    },
+    {
+      "name": "Ford Motor Company, Chennai",
+      "position": "Deputy Manager, Technical Specialist",
+      "url": "https://www.india.ford.com/",
+      "startDate": "2021-05-03",
+      "endDate": "2023-11-29",
+      "summary": "At Ford Motors, was part of the International Markets Group as Technical Specialist for Castings, Forgings, Raw Materials.",
+      "highlights": ["Material Research & Lightweighting"]
+    },
+    {
+      "name": "The Automotive Research Association of India, Pune",
+      "position": "Deputy Manager, Technology Group",
+      "url": "https://www.araiindia.com/",
+      "startDate": "2023-12-04",
+      "endDate": "Present",
+      "summary": "Currently working on New Material Research through ICME approach, AI & ML for Materials, Material Infomatics.",
+      "highlights": ["ICME, AI & ML for Materials "]
     }
   ],
+  
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indian Institute of Technology, Hyderabad",
+      "location": "Hyderabad, India",
+      "url": "https://www.iith.ac.in/",
+      "area": "Integrated Computational Materials Engineering",
+      "studyType": "M.Tech",
+      "startDate": "2022-06-13",
+      "endDate": "2024-05-31",
+      "score": "9.5",
+      "courses": ["Phase Field, AI & ML, Atomistic Modeling, ICME, Thermodynamics"]
+    },
+    
+    {
+      "institution": "PSG College of Technology",
+      "location": "Coimbatore, India",
+      "url": "https://www.psgtech.edu/",
+      "area": "Metallurgical Engineering",
+      "studyType": "B.E",
+      "startDate": "2011-06-20",
+      "endDate": "2015-06-06",
+      "score": "8.0",
+      "courses": ["Metallurgy, Castings, Forging, Heat Treatment, Steel Making, Thermodynamics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Asia West Steel Champion",
+      "date": "2023-12-08",
+      "awarder": "Word Steel Association",
+      "url": "https://steeluniversity.org/steelchallenge-18/",
+      "summary": "steelChallenge-18 utilised steeluniversity’s electric arc furnace steelmaking and secondary steelmaking in a combined simulation. Participants were tasked to produce a grade of steel meeting technical requirements at the lowest cost per tonne with carbon footprint requirements.'"
+    },
+    {
+      "title": "World Steel Champion",
+      "date": "2024-04-09",
+      "awarder": "Word Steel Association",
+      "url": "https://worldsteel.org/media/press-releases/2024/steelchallenge-18-world-champions-announcement/",
+      "summary": "Finalist of Regional Champions are invited to compete for the World Championship Titile. I have emerged as World Champion.'"
     }
   ],
   "certificates": [
