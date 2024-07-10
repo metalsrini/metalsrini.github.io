@@ -13,41 +13,30 @@ I have worked extensively on aluminium product development, encompassing a range
 The products I have developed, not limited to, include cylinder blocks, cylinder heads, gearbox housings, compressor impeller housings, ladder frames, oil pan castings, knuckles, alloy wheels, various pressure-tight aluminium alloy castings, proprietary high-performance alloys, and structural castings of aluminium alloys.
 
     ---
-    Project : High Quality Al Ingot Development for Cylinder Head Application  
+    Project 1: High Quality Al Ingot Development for Cylinder Head Application  
     title: Al Recycling 
     description: Establishing critical quality parameters to meet stringent requirements and achieve best-in-class standards
     Challenges Faced : Controlling hydrogen gas and inclusion levels to ensure superior quality.
     ---
-This 
+
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
     ---
-    Project : High Quality Al Ingot Development for Cylinder Head Application  
-    title: Al Recycling 
-    description: I have developed high-quality aluminium ingots in India for cylinder head applications
-    Challenges Faced : Controlling hydrogen gas and inclusion levels to ensure superior quality.
+    Project 2: New Grain Refiner Research for Al Gravity Die Castings  
+    title: Al GDC 
+    description: Research on Nb Based refiners and prototype developement for High Strength Alloy Development 
+    Challenges Faced : Developemnt of Nb based master alloy  
     ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+    ---
+    Project 2: New Grain Refiner Research for Al Gravity Die Castings  
+    title: Al GDC 
+    description: Research on Nb Based refiners and prototype developement for High Strength Alloy Development 
+    Challenges Faced : Developemnt of Nb based master alloy  
+    ---
+
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
