@@ -49,4 +49,4 @@ I played a pivotal role in the development and industrialization of automotive H
 I played a pivotal role in the development and industrialization of alloy Wheels. My responsibilities included conducting simulation reviews and overseeing casting trials, with the key objective of achieving first-time-right production
 
 
-{% endraw %}
+
