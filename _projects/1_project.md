@@ -1,24 +1,22 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Aluminium Product Development
+description: Castings (HPDC,GDC,LPDC,GISS,HI_HPDC,RheoCastings,New Grain Refiner Research,Al Recycling), Forgings(2XXX, 6XXX, 7XXX) 
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I have worked extensively on aluminium product development, encompassing a range of casting techniques such as High-Pressure Die Casting (HPDC), Gravity Die Casting (GDC), Low-Pressure Die Casting (LPDC), Gas Induced Semi-Solid (GISS), High Integrity High-Pressure Die Casting (HI_HPDC), and RheoCastings, as well as new grain refiner research and aluminium recycling. My experience also includes forging processes for alloys in the 2XXX, 6XXX, and 7XXX series.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The products I have developed, not limited to, include cylinder blocks, cylinder heads, gearbox housings, compressor impeller housings, ladder frames, oil pan castings, knuckles, alloy wheels, various pressure-tight aluminium alloy castings, proprietary high-performance alloys, and structural castings of aluminium alloys.
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Project : High Quality Al Ingot Development for Cylinder Head Application  
+    title: Al Recycling 
+    description: I have developed high-quality aluminium ingots in India for cylinder head applications
+    Challenges Faced : Controlling hydrogen gas and inclusion levels to ensure superior quality.
     ---
 
 <div class="row">
