@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 B302 Radiance Shine</p>
+    <p> B302 Radiance Shine</p>
     <p>OMR Road, Chennai</p>
     <p>Ph +91 8807383720</p>
 
