@@ -28,24 +28,25 @@ This development marks a significant milestone as it was a localization project 
     Challenges Faced : Developemnt of Nb based master alloy  
     ---
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I have developed and prototyped castings using Nb-based grain refiners to refine the grain size of aluminium GDC castings. This innovation is instrumental in optimizing heat treatment parameters, achieving strength in the as-cast stage, and thereby reducing overall costs.
 
     ---
-    Project 2: New Grain Refiner Research for Al Gravity Die Castings  
-    title: Al GDC 
-    description: Research on Nb Based refiners and prototype developement for High Strength Alloy Development 
-    Challenges Faced : Developemnt of Nb based master alloy  
+    Project 3: Automotive HPDC Castings Development 
+    title: Al HPDC 
+    description: Industrialization of more than 15 HPDC parts for automotive applications  
+    Challenges Faced : Launching at the rejection rate less than 5%
     ---
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I played a pivotal role in the development and industrialization of automotive HPDC castings. My responsibilities included conducting simulation reviews and overseeing casting trials, with the key objective of achieving first-time-right production
+   
+    ---
+    Project 4: Rejection Improvement in Al HPDC Castings
+    title: GISS assisted HPDC  
+    description: Industrialization of Alloy Wheels
+    Challenges Faced : Launching at the rejection rate less than 5%
+    ---
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I played a pivotal role in the development and industrialization of alloy Wheels. My responsibilities included conducting simulation reviews and overseeing casting trials, with the key objective of achieving first-time-right production
 
 
 {% endraw %}
