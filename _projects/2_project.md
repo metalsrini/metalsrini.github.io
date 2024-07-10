@@ -1,81 +1,70 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Aluminium 
+description: Castings (HPDC, GDC, LPDC,GISS, HI_HPDC, RheoCastings, New Grain Refiner Research, Al Recycling), Forgings(2XXX, 6XXX, 7XXX) 
+img: assets/img/12.jpg
+importance: 1
 category: work
-giscus_comments: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I have worked extensively on aluminium product development, encompassing a range of casting techniques such as High-Pressure Die Casting (HPDC), Gravity Die Casting (GDC), Low-Pressure Die Casting (LPDC), Gas Induced Semi-Solid (GISS), High Integrity High-Pressure Die Casting (HI_HPDC), and RheoCastings, as well as new grain refiner research and aluminium recycling. My experience also includes forging processes for alloys in the 2XXX, 6XXX, and 7XXX series.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The products I have developed, not limited to, include cylinder blocks, cylinder heads, gearbox housings, compressor impeller housings, ladder frames, oil pan castings, knuckles, alloy wheels, various pressure-tight aluminium alloy castings, proprietary high-performance alloys, and structural castings of aluminium alloys.
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Project 1: High Quality Al Ingot Development for Cylinder Head Application  
+    title: Al Recycling 
+    description: Establishing critical quality parameters to meet stringent requirements and achieve best-in-class standards
+    Challenges Faced : Controlling hydrogen gas and inclusion levels to ensure superior quality.
     ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+This development marks a significant milestone as it was a localization project in India, where we successfully tackled cost challenges while maintaining superior quality.
+   
+    ---
+    Project 2: New Grain Refiner Research for Al Gravity Die Castings  
+    title: Al GDC 
+    description: Research on Nb Based refiners and prototype developement for High Strength Alloy Development 
+    Challenges Faced : Developemnt of Nb based master alloy  
+    ---
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Developed and prototyped castings using Nb-based grain refiners to refine the grain size of aluminium GDC castings. This innovation is instrumental in optimizing heat treatment parameters, achieving strength in the as-cast stage, and thereby reducing overall costs.
+    
+    ---
+    Project 3: Rejection Improvement in Al HPDC Castings
+    title: GISS assisted HPDC  
+    description: Industrialization of Alloy Wheels
+    Challenges Faced : Tackling the porosity and shrinkage defects 
+    ---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Development of semi solid assisted high pressure die castings to improve the rejection precentage from 20% to less than 5%
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+    ---
+    Project 4: 2XXX Alloy Forging Heat Treatment Optimization 
+    title: Al Forgings
+    description: Optimization of Heat Treatment process parameters with help of ML algorithm 
+    Challenges Faced : Value addition and Efficiency Improvemnt. Achieving Elongation %
+    ---
 
-{% raw %}
+Optimized the heat treatment process parameters for achieving the best possible elongation percentage keeping cost in check
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+    ---
+    Project 4: Automotive HPDC/GDC/LPDC/Hi-HPDC Castings Development 
+    title: Al HPDC 
+    description: Industrialization of more than 25 parts for automotive applications  
+    Challenges Faced : Launching at the rejection rate less than 5%
+    ---
 
-{% endraw %}
+Played a pivotal role in the development and industrialization of automotive Al castings. My responsibilities included conducting simulation reviews and overseeing casting trials, with the key objective of achieving first-time-right production
+
+    ---
+    Project 5: CQI 27 & Ford W-CMS Lead Auditor
+    title: Al Castings
+    description: Lead Auditor for CQI - 27 & Ford W-CMS Assessment Check sheet. Audited more than 45 Casting Sites 
+    Challenges Faced : Supplier Collaboration & Closure of NC's
+    ---
+
+Visited more than 45 Business partners across India, Thailand, South Africa, South Korea for auditing and approving the casting sites for various vehicle programs    
+
+
+
