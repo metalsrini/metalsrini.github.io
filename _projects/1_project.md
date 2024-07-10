@@ -18,7 +18,7 @@ The products I have developed, not limited to, include cylinder blocks, cylinder
     description: Establishing critical quality parameters to meet stringent requirements and achieve best-in-class standards
     Challenges Faced : Controlling hydrogen gas and inclusion levels to ensure superior quality.
     ---
-
+.
     ---
     Project : High Quality Al Ingot Development for Cylinder Head Application  
     title: Al Recycling 
