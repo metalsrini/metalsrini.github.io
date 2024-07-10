@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Biography</a>. Address. Contact.
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 B302 Radiance Shine</p>
-    <p>OMR Road</p>
-    <p>Chennai, India</p>
+    <p>OMR Road, Chennai</p>
+    <p>Ph +91 8807383720</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
