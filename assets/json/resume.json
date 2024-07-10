@@ -176,14 +176,22 @@
       "reference": "Benefitting greatly from Srinivasan's mentorship, I have acquired substantial knowledge. He has extensive expertise in Thermodynamics and Steel Making, coupled with exceptional leadership skills. As my mentor and advisor for the Steel Challenge '18, his guidance led me to secure 3rd place in the Asia West region."
     }
   ],
-  "projects": [
+  "Key Research Areas": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "Microstructure Modeling of Fe-Cr Phase Seperation",
+      "summary": "Research on Mesoscale Modeling on Phase Seperaation of Fe-Cr alloy and Fe-Cr-Co alloy by using NIST Thermodynamic Databases",
+      "highlights": ["Spinodal Decomposition ", "Phase Field"],
+      "startDate": "2024-06-20",
+      "endDate": "2023-06-13",
       "url": "https://example.com"
-    }
+    },
+    {
+      "name": "Microstructure Modeling of Fe-Cr Phase Seperation",
+      "summary": "Research on Mesoscale Modeling on Phase Seperaation of Fe-Cr alloy and Fe-Cr-Co alloy by using NIST Thermodynamic Databases",
+      "highlights": ["Spinodal Decomposition ", "Phase Field"],
+      "startDate": "2024-06-20",
+      "endDate": "2023-06-13",
+      "url": "https://example.com"
+    },
   ]
 }
