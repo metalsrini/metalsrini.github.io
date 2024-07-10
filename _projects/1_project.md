@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Aluminium Product Development
+title: Aluminium 
 description: Castings (HPDC, GDC, LPDC,GISS, HI_HPDC, RheoCastings, New Grain Refiner Research, Al Recycling), Forgings(2XXX, 6XXX, 7XXX) 
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 I have worked extensively on aluminium product development, encompassing a range of casting techniques such as High-Pressure Die Casting (HPDC), Gravity Die Casting (GDC), Low-Pressure Die Casting (LPDC), Gas Induced Semi-Solid (GISS), High Integrity High-Pressure Die Casting (HI_HPDC), and RheoCastings, as well as new grain refiner research and aluminium recycling. My experience also includes forging processes for alloys in the 2XXX, 6XXX, and 7XXX series.
